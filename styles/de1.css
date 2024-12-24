@@ -1,0 +1,20 @@
+@charset "utf-8";
+*{margin: auto;}
+.tong ul li{
+	color: blue;
+}.cuoi{
+	color: red;
+}
+.cuoi i{
+	color: deeppink
+}
+.tong h3{
+	color: red;
+	padding-left: 120px;
+}
+.tong{
+	border: 1px solid;
+	width: 600px;
+	height: 150px
+}
+

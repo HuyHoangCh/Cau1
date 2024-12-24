@@ -1,0 +1,51 @@
+@charset "utf-8";
+*{margin: auto}
+.xanhduong{
+	background-color:#194335;
+	width: 960px;
+	height: 400px;
+}
+.trang{
+	background-color: white;
+	width: 960px;
+	height: 300px;
+	transform: translate(0px,-350px);
+}
+.trang2{
+	background-color: white;
+	width: 900px;
+	height: 350px;
+	transform: translate(0px,-680px);
+	border-radius: 10px 10px 10px 10px;
+	
+}
+.xanhduong nav {
+	padding-top:  375px;
+	padding-left: 10px
+}
+.xanhduong nav a{
+	padding: 15px;
+	color: white;
+	text-decoration: none;
+}
+.xam .anh{
+	float: left;
+	padding-left: 10px;
+}
+.trang2 p{
+	padding-left: 0px}
+.xam{
+	background-color:gray;
+}
+.xam .chu1{
+	padding-left: 30px;}
+.trang2 a{
+	text-decoration: none;
+	color: blue;
+}
+.xam p.tr{
+	padding-left: 10px;
+}
+
+
+
